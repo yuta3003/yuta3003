@@ -13,6 +13,4 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
 </a>
 
-[![chart](https://github-chart.vercel.app/api?user=yuta3003&&theme=nord)](https://github.com/yuta3003)
-
 ![](https://komarev.com/ghpvc/?username=yuta3003&color=green)
