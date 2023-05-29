@@ -7,8 +7,7 @@
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuta3003&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuta3003&theme=nord_dark)
 
 ![](https://komarev.com/ghpvc/?username=yuta3003&color=green)
