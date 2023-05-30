@@ -1,7 +1,5 @@
 ## Hi there :waving_hand:
 
-I am an infrastructure and cloud engineer.
-
 ### :penguin: my skills
 <img alt="my skills" src="https://skillicons.dev/icons?i=aws,bash,docker,github,githubactions,linux,python,vim&theme=dark"/>
 
