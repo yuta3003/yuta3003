@@ -1,4 +1,4 @@
-## Hi there :waving_hand:
+## Hi there 👋
 
 ### :penguin: my skills
 <img alt="my skills" src="https://skillicons.dev/icons?i=aws,bash,docker,github,githubactions,linux,python,vim&theme=dark"/>
