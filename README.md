@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🌱 my skills
+### :penguin: my skills
 <img alt="my skills" src="https://skillicons.dev/icons?i=aws,bash,docker,github,githubactions,linux,python,vim&theme=dark"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
