@@ -3,7 +3,7 @@
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?i=aws,bash,docker,github,githubactions,linux,python,vim&theme=dark"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&column=4&margin-w=5&theme=nord)](https://github.com/yuta3003/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
 
 <div style="text-align: left;">
   <img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
