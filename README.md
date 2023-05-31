@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### :penguin: my skills
+## my skills :penguin:
 <img alt="my skills" src="https://skillicons.dev/icons?i=aws,bash,docker,github,githubactions,linux,python,vim&theme=dark"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
@@ -13,5 +13,23 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
 
+
+## More information :octcat:
+
+[![Number of years at GitHub](https://badges.strrl.dev/years/yuta3003)](#)
+[![Number of public repositories](https://badges.strrl.dev/repos/yuta3003)](https://github.com/erikw?tab=repositories)
+[![All contributions](https://badges.strrl.dev/contributions/all/yuta3003)](#)
+[![Total commits](https://badges.strrl.dev/commits/all/yuta3003)](#)
+[![Total issues](https://badges.strrl.dev/issues/all/yuta3003)](#)
+[![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
+
+## When I can choose, it would be...
+
+<!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+[![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=apple)](#)
+[![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
+[![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
+
+but I'm flexible when needed.
 
 ![](https://komarev.com/ghpvc/?username=yuta3003&color=green)
