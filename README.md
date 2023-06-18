@@ -27,7 +27,6 @@
 
 ## When I can choose, it would be...
 
-<!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 [![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=apple)](#)
 [![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
