@@ -1,4 +1,4 @@
-## Hi there :waving_hand:
+## Hi there 👋
 
 ![octcat](./images/octcat.gif)
 
