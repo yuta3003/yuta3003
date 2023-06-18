@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there :waving_hand:
 
-## my skills :penguin:
+![octcat](./images/octcat.gif)
+
+## :fire: Languages & Frameworks & Tools & Abilities :fire:
 <img alt="my skills" src="https://skillicons.dev/icons?i=androidstudio,nginx,ansible,aws,bash,discord,docker,kubernetes,firebase,github,githubactions,go,javascript,nextjs,nodejs,jest,linux,raspberrypi,md,python,swift,react,vim,neovim,vscode,typescript&theme=dark&perline=12"/>
 
+## my skills :penguin:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
 
 <div style="text-align: left;">
@@ -31,4 +34,4 @@
 
 but I'm flexible when needed.
 
-![](https://komarev.com/ghpvc/?username=yuta3003&color=green)
+![](https://komarev.com/ghpvc/?username=yuta3003&color=blue)
