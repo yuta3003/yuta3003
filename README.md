@@ -2,10 +2,10 @@
 
 ![octcat](./images/octcat.gif)
 
-## :penguin: Languages & Frameworks & Tools & Abilities :penguin:
+## Languages & Frameworks & Tools & Abilities :penguin:
 <img alt="my skills" src="https://skillicons.dev/icons?i=androidstudio,nginx,ansible,aws,bash,discord,docker,kubernetes,firebase,github,githubactions,go,javascript,nextjs,nodejs,jest,linux,raspberrypi,md,python,swift,react,vim,neovim,vscode,typescript&theme=dark&perline=12"/>
 
-## :octocat: my skills :octocat:
+## my skills :octocat:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
 
 <div style="text-align: left;">
@@ -14,7 +14,6 @@
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9)
 
@@ -26,9 +25,6 @@
 [![Total commits](https://badges.strrl.dev/commits/all/yuta3003)](#)
 [![Total issues](https://badges.strrl.dev/issues/all/yuta3003)](#)
 [![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
-
-
-
 
 ## When I can choose, it would be...
 
