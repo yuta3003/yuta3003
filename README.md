@@ -15,6 +15,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9)
+
 ## More information :octocat:
 
 [![Number of years at GitHub](https://badges.strrl.dev/years/yuta3003)](#)
@@ -23,6 +26,9 @@
 [![Total commits](https://badges.strrl.dev/commits/all/yuta3003)](#)
 [![Total issues](https://badges.strrl.dev/issues/all/yuta3003)](#)
 [![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
+
+
+
 
 ## When I can choose, it would be...
 
