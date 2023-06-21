@@ -2,19 +2,16 @@
 
 ![octcat](./images/octcat.gif)
 
-## :fire: Languages & Frameworks & Tools & Abilities :fire:
+## :penguin: Languages & Frameworks & Tools & Abilities :penguin:
 <img alt="my skills" src="https://skillicons.dev/icons?i=androidstudio,nginx,ansible,aws,bash,discord,docker,kubernetes,firebase,github,githubactions,go,javascript,nextjs,nodejs,jest,linux,raspberrypi,md,python,swift,react,vim,neovim,vscode,typescript&theme=dark&perline=12"/>
 
-## my skills :penguin:
+## :octocat: my skills :octocat:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
 
 <div style="text-align: left;">
   <img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
-
 
 ## More information :octocat:
 
