@@ -2,8 +2,13 @@
 <img src="./images/hello-world.png" alt="属性" title="タイトル">
 
 ## Languages & Frameworks & Tools & Abilities :penguin:
-<img src="./images/octcat.gif" alt="属性" title="タイトル">
-<img alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=12"/>
+
+<p><img align="right" width="49%" src="./images/octcat.gif" alt="属性" title="タイトル"></p>
+
+<p><img align="left" width="49%" height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/></p>
+
+
+---
 
 ## my skills :octocat:
 <img alt="YUTA's GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord" height="225px">
