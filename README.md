@@ -13,9 +13,7 @@
 
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9)
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px">
 
 ## More information :octocat:
 
