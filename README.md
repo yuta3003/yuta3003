@@ -1,11 +1,12 @@
 ## Hi there 👋
 <div align="center">
-  ![octcat](./images/octcat.gif)
   <img src="./images/octcat.gif" alt="属性" title="タイトル">
 </div>
 
 ## Languages & Frameworks & Tools & Abilities :penguin:
-<img alt="my skills" src="https://skillicons.dev/icons?i=androidstudio,nginx,ansible,aws,bash,discord,docker,kubernetes,firebase,github,githubactions,go,javascript,nextjs,nodejs,jest,linux,raspberrypi,md,python,swift,react,vim,neovim,vscode,typescript&theme=dark&perline=12"/>
+<div align="center">
+  <img alt="my skills" src="https://skillicons.dev/icons?i=androidstudio,nginx,ansible,aws,bash,discord,docker,kubernetes,firebase,github,githubactions,go,javascript,nextjs,nodejs,jest,linux,raspberrypi,md,python,swift,react,vim,neovim,vscode,typescript&theme=dark&perline=12"/>
+</div>
 
 ## my skills :octocat:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord)](https://github.com/yuta3003/)
