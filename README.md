@@ -1,8 +1,8 @@
-## Hi there 👋
-<img src="./images/octcat.gif" alt="属性" title="タイトル">
+# Hi there 👋
+<img src="./images/hello-world.png" alt="属性" title="タイトル">
 
 ## Languages & Frameworks & Tools & Abilities :penguin:
-
+<img src="./images/octcat.gif" alt="属性" title="タイトル">
 <img alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=12"/>
 
 ## my skills :octocat:
