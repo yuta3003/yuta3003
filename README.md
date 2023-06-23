@@ -3,18 +3,15 @@
 
 ## Languages & Frameworks & Tools & Abilities :penguin:
 
-<p><img align="right" width="49%" src="./images/octcat.gif" alt="属性" title="タイトル"></p>
+<img src="./images/octcat.gif" alt="属性" title="タイトル">
 
-<p><img align="left" width="49%" height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/></p>
-
-
----
+<img height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/>
 
 ## my skills :octocat:
 <img alt="YUTA's GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord" height="225px">
 
-<img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
+<img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px" align="left" width="49%">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px" align="right" width="49%">
 
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
 
