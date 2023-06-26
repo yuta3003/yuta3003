@@ -9,12 +9,9 @@
 
 ## my skills :octocat:
 <img alt="YUTA's GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord" height="225px">
-
 <img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
-
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
-
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px">
 
 ## More information :octocat:
