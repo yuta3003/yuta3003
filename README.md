@@ -12,7 +12,7 @@
 <img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px">
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px"> -->
 
 ## More information :octocat:
 
@@ -21,7 +21,7 @@
 [![All contributions](https://badges.strrl.dev/contributions/all/yuta3003)](#)
 [![Total commits](https://badges.strrl.dev/commits/all/yuta3003)](#)
 [![Total issues](https://badges.strrl.dev/issues/all/yuta3003)](#)
-[![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#) -->
+[![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
 
 ## When I can choose, it would be...
 
