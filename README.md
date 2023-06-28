@@ -5,7 +5,7 @@
 
 <img src="./images/octcat.gif" alt="属性" title="タイトル">
 
-<img height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/>
+<!-- <img height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/> -->
 
 ## my skills :octocat:
 <img alt="YUTA's GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord" height="225px">
