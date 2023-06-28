@@ -1,13 +1,13 @@
 # Hi there 👋
 <img src="./images/hello-world.png" alt="属性" title="タイトル">
 
-## Languages & Frameworks & Tools & Abilities :penguin:
+<!-- ## Languages & Frameworks & Tools & Abilities :penguin: -->
 
-<img src="./images/octcat.gif" alt="属性" title="タイトル">
+<!-- <img src="./images/octcat.gif" alt="属性" title="タイトル"> -->
 
 <!-- <img height="225px" alt="my skills" src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,kubernetes,firebase,github,githubactions,linux,python,vim,neovim,vscode&theme=dark&perline=4"/> -->
 
-## my skills :octocat:
+<!-- ## my skills :octocat:
 <img alt="YUTA's GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=yuta3003&margin-w=5&theme=nord" height="225px">
 <img alt="YUTA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yuta3003&count_private=true&show_icons=true&theme=nord" height="165px">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta3003&layout=compact&theme=nord" height="165px">
@@ -21,7 +21,7 @@
 [![All contributions](https://badges.strrl.dev/contributions/all/yuta3003)](#)
 [![Total commits](https://badges.strrl.dev/commits/all/yuta3003)](#)
 [![Total issues](https://badges.strrl.dev/issues/all/yuta3003)](#)
-[![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
+[![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#) -->
 
 ## When I can choose, it would be...
 
