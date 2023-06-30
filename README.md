@@ -14,8 +14,7 @@
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px"> -->
 
-## GitHub information :octocat:
-
+## :octocat:My GitHub Stats
 [![Number of years at GitHub](https://badges.strrl.dev/years/yuta3003)](#)
 [![Number of public repositories](https://badges.strrl.dev/repos/yuta3003)](https://github.com/erikw?tab=repositories)
 [![All contributions](https://badges.strrl.dev/contributions/all/yuta3003)](#)
