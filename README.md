@@ -14,7 +14,7 @@
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta3003&theme=nord_dark" height="165px">
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta3003&theme=nord_dark&utcOffset=9" height="165px"> -->
 
-## More information :octocat:
+## GitHub information :octocat:
 
 [![Number of years at GitHub](https://badges.strrl.dev/years/yuta3003)](#)
 [![Number of public repositories](https://badges.strrl.dev/repos/yuta3003)](https://github.com/erikw?tab=repositories)
@@ -24,11 +24,9 @@
 [![Total PRs](https://badges.strrl.dev/prs/all/yuta3003)](#)
 
 ## When I can choose, it would be...
-
 [![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=apple)](#)
 [![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
 
-but I'm flexible when needed.
 
 ![](https://komarev.com/ghpvc/?username=yuta3003&color=blue)
